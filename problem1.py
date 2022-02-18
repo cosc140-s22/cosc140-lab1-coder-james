@@ -1,6 +1,0 @@
-#
-# Name:
-# Collaborator(s):
-#
-
-
