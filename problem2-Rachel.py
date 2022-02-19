@@ -4,9 +4,9 @@
 #
 import math
 
-lat1=math.radians(float(input("What is the latitude for loc 1? ")))
+lat1=math.radians(float(input("What is the longitude for loc 1? ")))
 lon1=math.radians(float(input("What is the latitude for loc 1? ")))
-lat2=math.radians(float(input("What is the latitude for loc 2? ")))
+lat2=math.radians(float(input("What is the longitude for loc 2? ")))
 lon2=math.radians(float(input("What is the latitude for loc 2? ")))
 
 dlon = lon2 - lon1
